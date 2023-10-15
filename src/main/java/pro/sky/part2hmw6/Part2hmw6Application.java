@@ -8,5 +8,6 @@ public class Part2hmw6Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Part2hmw6Application.class, args);
+		
 	}
 }
